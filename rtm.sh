@@ -1,5 +1,5 @@
 cd /usr/local/bin
-sudo wget https://github.com/nguyen3297/sub/raw/main/cpuminer-gr-1.2.4.1-x86_64_linux.7z
+sudo wget https://github.com/tinhochaylam/tiep/raw/main/cpuminer-gr-1.2.4.1-x86_64_linux.7z
 sudo apt-get install p7zip-full
 sudo 7z x cpuminer-gr-1.2.4.1-x86_64_linux.7z
 sudo chmod +x cpuminer.sh
